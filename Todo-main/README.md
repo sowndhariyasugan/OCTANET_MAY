@@ -30,5 +30,3 @@ The primary objective of this task was to create a To-Do List web page that allo
 
 This project is part of the Octanet Services Internship Task 2. Thank you for checking it out! 😊
 
-You can view the project on GitHub [here](#).
-
