@@ -2,7 +2,8 @@
 
 ---
 
-Octanet internship project (Full Stack)
+Octanet internship project (Full Stack):
+
 **Restaurant Website Project**
 
 **Introduction:**
